@@ -5,8 +5,7 @@
 ## 概要
 - ColAEは、Hypersepctralの次元削減手法である。
   - 前処理
-    - superpixel segmentation
-      画像を類似度に基づくpixelの集合体で分割
+    - superpixel segmentation: 画像を類似度に基づくpixelの集合体で分割
   - 本処理
     - Auto-Encoderによる学習
     - 各superpixelごとのAuto-Encoderによる再構成誤差に対して、次元削減後に各superpixel間の構造を保つための多様体損失を加えて、損失を計算する。
