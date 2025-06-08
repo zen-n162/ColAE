@@ -22,8 +22,8 @@
 ![論文紹介資料(日本語)](ThesisReview_jp.pdf)
 
 ### Datasets
-#### HISUI （Hyperspectral Imager SUIte）
+#### HISUI (Hyperspectral Imager SUIte）
 - Port
 - Tokyo
-#### M^3 (Moon Mineralogy Mapper)
+#### [tex:M\^3] (Moon Mineralogy Mapper)
 - Schrodinger Creater
