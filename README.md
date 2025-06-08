@@ -29,16 +29,17 @@
   - チャネル数： **185** (VNIR:57, SWIR:128)
   - 観測波長帯： **0.4-2.5 μm**
   - 波長分解能： VNIR 10 nm, SWIR 12.5 nm
-##### データ
+#### データ
 - **Port** (181 channel)
   - Vegetation / Opne water / Land use
 - **Tokyo** (430 nmを除く180 channel)
   - Vegetation / Open water / others
+
   
 2. $M^3$ (Moon Mineralogy Mapper)
 - 空間分解： 125 m/pixel
 - Spectral
   - チャネル数： **85** (83)
   - 観測波長帯： **460-2976 nm** (540.84~2976.20 nmを使用)
-##### データ
+#### データ
 - **Schrodinger Creater** (120x120 km, S74.5°E137.0°)
