@@ -3,6 +3,7 @@
 ## 
 
 ## 概要
+- ColAEを論文をもとに実装したものがこのリポジトリにあるファイルである。
 - ColAEは、Hypersepctralの次元削減手法である。
   - 前処理
     - superpixel segmentation: 画像を類似度に基づくpixelの集合体で分割
@@ -17,7 +18,6 @@
   
   DOI: [https://www.mdpi.com/2072-4292/15/17/4211]
 
-- その次元削減手法を論文をもとに実装したものがこのリポジトリにあるファイルである。
 
 ![論文紹介資料(日本語)](ThesisReview_jp.pdf)
 
