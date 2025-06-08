@@ -17,7 +17,7 @@
   - DOI: [https://www.mdpi.com/2072-4292/15/17/4211]
 
 
-![論文紹介資料(日本語)](ThesisReview_jp.pdf) ![(表示できない場合)](https://drive.google.com/file/d/17iwIHoD4cogmBN5U9oatosvlxaVPEkqu/view?usp=sharing)
+![論文紹介資料(日本語)](ThesisReview_jp.pdf) [(表示できない場合)](https://drive.google.com/file/d/17iwIHoD4cogmBN5U9oatosvlxaVPEkqu/view?usp=sharing)
 
 ### Datasets
 1. HISUI (Hyperspectral Imager SUIte）
