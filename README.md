@@ -25,5 +25,5 @@
 #### HISUI (Hyperspectral Imager SUIte）
 - Port
 - Tokyo
-#### M^3 (Moon Mineralogy Mapper)
+#### $M^3$ (Moon Mineralogy Mapper)
 - Schrodinger Creater
