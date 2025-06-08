@@ -22,7 +22,7 @@
 ![論文紹介資料(日本語)](ThesisReview_jp.pdf)
 
 ### Datasets
-#### HISUI (Hyperspectral Imager SUIte）
+1. HISUI (Hyperspectral Imager SUIte）
 - 空間分解： 20~31 m/pixel
 - 観測幅： 20 km
 - Spectral
@@ -35,7 +35,7 @@
 - **Tokyo** (430 nmを除く180 channel)
   - Vegetation / Open water / others
   
-#### $M^3$ (Moon Mineralogy Mapper)
+2. $M^3$ (Moon Mineralogy Mapper)
 - 空間分解： 125 m/pixel
 - Spectral
   - チャネル数： **85** (83)
