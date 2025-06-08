@@ -12,7 +12,7 @@
 
 - その次元削減手法を論文をもとに実装したものがこのリポジトリにあるファイルである。
 
-![論文紹介資料,日本語](ThesisReview_jp.pdf)
+![論文紹介資料(日本語)](ThesisReview_jp.pdf)
 
 ### Datasets
 #### HISUI （Hyperspectral Imager SUIte）
